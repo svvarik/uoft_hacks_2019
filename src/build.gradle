@@ -1,0 +1,2 @@
+version = "1.0.0"
+compile 'com.google.cloud:google-cloud-language:1.59.0'
